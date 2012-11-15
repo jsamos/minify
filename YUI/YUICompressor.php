@@ -27,7 +27,7 @@
  * @author Stephen Clay <steve@mrclay.org>
  */
  
-namespace YUICompressor;
+namespace YUI\YUICompressor;
 class Minify_YUICompressor {
 
     /**
